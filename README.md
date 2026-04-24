@@ -1,7 +1,6 @@
 ## Dashboard
 
-![Layoff Analytics Dashboard](images/dashboard.png)
-
+![Layoff Analytics Dashboard](Images/dashboard.png)
 
 # Tech Layoff Analytics Pipeline
 
