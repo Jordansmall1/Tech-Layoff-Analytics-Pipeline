@@ -1,3 +1,8 @@
+## Dashboard
+
+![Layoff Analytics Dashboard](images/dashboard.png)
+
+
 # Tech Layoff Analytics Pipeline
 
 This An end-to-end data engineering and machine learning pipeline analyzing 4,357 tech layoff events from 2020–2026. Built to demonstrate production-grade pipeline architecture, three-schema warehouse design, and ML-based layoff risk classification.
