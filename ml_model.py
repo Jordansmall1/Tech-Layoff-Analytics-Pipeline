@@ -29,3 +29,6 @@ print('AUC:', roc_auc_score(y_test, model.predict_proba(X_test)[:,1]))
 importance = pd.DataFrame({ 'feature': X.columns, 'importance': model.feature_importances_
 }).sort_values('importance', ascending=False)
 print(importance.head(10))
+
+
+
